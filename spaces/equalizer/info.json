@@ -1,0 +1,24 @@
+{
+  "key": "equalizer",
+  "blockchain": "etherscan",
+  "brief": "让流动性挖矿更公平",
+  "intro": "”一个基于公平且自动调整的治理代币分发的AMM模式DEX，为任意一个交易对池子提供流动性，都能获取治理币。",
+  "audit_agency": "NCC",
+  "audit_report": "审计地址",
+  "website": "https://equalizer.fi/",
+  "mining": [
+    {
+      "pool": "任意币对",
+      "url": "EQL治理代币按照交易对的交易量智能分发，每8个小时（该频率可通过之后社区投票进行调整）自动调整每个交易对的EQL流动性挖矿权重，每个交易对都能获取治理币"
+    },
+    {
+      "url":"https://equalizer.fi/#/farm"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/Equalizer_Fi",
+    "medium": "https://medium.com/@EqualizerFinance",
+    "telegram": "https://t.me/equalizer_fi"
+  }
+}
+  

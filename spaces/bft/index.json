@@ -1,0 +1,13 @@
+{
+  "key": "bft",
+  "name": "BFT",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "BFT",
+  "defaultView": "core",
+  "address": "0x1ec128C3D3F256Cad161cf7A3F148f47F03f1D36", 
+  "token": "0x1ec128C3D3F256Cad161cf7A3F148f47F03f1D36",
+  "core": [],
+  "min": 10000,
+  "invalid": []
+}

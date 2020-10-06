@@ -1,0 +1,13 @@
+{
+  "key": "aapl", 
+  "name": "$AAPL", 
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "$AAPL",
+  "defaultView": "core",
+  "address": "0x41efc0253ee7ea44400abb5f907fdbfdebc82bec",
+  "token": "0x41efc0253ee7ea44400abb5f907fdbfdebc82bec",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

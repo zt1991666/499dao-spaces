@@ -1,0 +1,13 @@
+{
+  "key": "debear", 
+  "name": "debear", 
+  "chainId": 1,
+  "decimals": 18, 
+  "symbol": "DEAR", 
+  "defaultView": "core",
+  "address": "0xac48f566bfb00b40112a868b45e44730798abe8d", 
+  "token": "0xac48f566bfb00b40112a868b45e44730798abe8d", 
+  "core": [],
+  "min": 1, 
+  "invalid": []
+}

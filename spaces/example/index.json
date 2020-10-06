@@ -1,0 +1,19 @@
+{
+  "key": "example", //项目名称，保持小写，和其它文件中保持一致
+  "name": "Example", //项目的名称，会展示给用户
+  "chainId": 1, //以太坊主网项目无需修改
+  "decimals": 18, //精度位数
+  "symbol": "EXAMPLE", //投票用令牌的符号，例如USDT、ETH
+  "defaultView": "core", //设置默认展示的投票版面，有 all、core community active pending closed 可选
+  "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", //投票用令牌的地址
+  "token": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", //和上面一条保持一致
+  "core": [ //设置核心成员地址，可添加多名
+    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7",
+    "0x1825CF4A2890E296f4956F23d5A052164B94D078"
+  ],
+  "min": 0, //最小参与门槛，持币量低于此数值的用户无法 创建、参与 提案
+  "invalid": [ //设置黑名单成员地址，可添加多名
+    "0xeF8305E140ac520225DAf050e2f71d5fBcC543e7",
+    "0x1825CF4A2890E296f4956F23d5A052164B94D078"
+  ]
+}

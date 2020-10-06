@@ -1,0 +1,9 @@
+{
+  "name": "@499dao/499dao-spaces",
+  "version": "0.1.0",
+  "repository": "MehJv/499dao-spaces",
+  "license": "MIT",
+  "files": [
+    "spaces"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "key": "example",
+  "blockchain": "etherscan",
+  "brief": "填写简介信息",
+  "intro": "填写完整介绍",
+  "totalsupply": "123456",
+  "audit_agency": "审计公司",
+  "audit_report": "审计地址",
+  "website": "https://example.finance",
+  "mining": [
+    {
+      "pool": "Example-ETH UNI-V2 LP",
+      "url": "https://example.finance/home",
+      "amout": "4200000"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/example",
+    "discord": "https://discord.com/invite/xJjSJrd",
+    "medium": "https://medium.com/@example",
+    "telegram": "https://t.me/example",
+    "github": "https://github.com/example"
+  }
+}
+  

@@ -1,0 +1,13 @@
+{
+  "key": "yfii",
+  "name": "Example",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "YFII",
+  "defaultView": "core",
+  "address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+  "token": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

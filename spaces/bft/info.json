@@ -1,0 +1,59 @@
+{
+  "key": "bft",
+  "blockchain": "etherscan",
+  "brief": "自动化做市商的流动性聚合协议",
+  "intro": "BFT平台精选众多DeFi项目，激励用户为最优质的DeFi项目提供流动性。用户可在BFT平台抵押DeFi项目的AMM资金池流动性凭证，以获得BFT代币奖励。",
+  "audit_agency": "知道创宇",
+  "audit_report": "https://github.com/BFTFinance/BFTFinanceContracts/blob/master/KNOWNSEC%20-%20Berkshire.Finance%20-%20Smart%20contract%20audit%20report.pdf",
+  "website": "https://berkshire.finance",
+  "mining": [
+    {
+      "pool": "UNI-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/UNI-ETH/10"
+    },
+    {
+      "pool": "$AAPL-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/$AAPL-ETH/1"
+    },
+    {
+      "pool": "USDT-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/USDT-ETH/0"
+    },
+    {
+      "pool": "sUSD-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/sUSD-ETH/2"
+    },
+    {
+      "pool": "LEND-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/LEND-ETH/3"
+    },
+    {
+      "pool": "COMP-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/COMP-ETH/4"
+    },
+    {
+      "pool": "YFII-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/YFII-ETH/5"
+    },
+    {
+      "pool": "DAI-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/DAI-ETH/6"
+    },
+    {
+      "pool": "BET-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/BET-ETH/7"
+    },
+    {
+      "pool": "XMX-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/XMX-ETH/8"
+    },
+    {
+      "pool": "RenBTC-ETH UNI-V2 LP",
+      "url": "https://berkshire.finance/#/actions/RenBTC-ETH/9"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/BerkshireBFT"
+  }
+}
+  

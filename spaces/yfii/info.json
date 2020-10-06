@@ -1,0 +1,30 @@
+{
+  "key": "yfii",
+  "blockchain": "etherscan",
+  "brief": "链上理财",
+  "intro": "YFII Finance是一个基于智能合约的去中心化被动投资平台，专注为用户提供 DeFi 聚合理财服务。YFII 从众多 DeFi 流动性挖矿产品中，根据年化收益率、安全系数、理财周期等因素，自动选择和配置最符合广大用户利益的产品，让复杂的流动性挖矿变得无比简单省事。挖矿收益将按比例分发给所有用户，没有中间商，没有本金抽成，公平公正。YFII作为 DeFi 聚合器赛道的明星项目，立足以太坊，努力发展生态，让 DeFi 更简单，为用户创造价值，让更多的人都可以接触并理解 DeFi，实现普惠金融。",
+  "totalsupply": "40000",
+  "audit_agency": "知道创宇",
+  "audit_report": "https://github.com/yfii/audit",
+  "website": "https://dfi.money/",
+  "mining": [
+    {
+      "pool": "yCRV",
+      "url": "https://yfii.finance/#/staking",
+      "amout": "20000"
+    },
+    {
+      "pool": "YFII-DAI(Balancer)",
+      "url": "https://bal.yfii.finance/#/pool/0x16cAC1403377978644e78769Daa49d8f6B6CF565",
+      "amout": "20000"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/DfiMoney",
+    "discord": "https://discord.com/invite/XQ4wnmz",
+    "telegram": "https://t.me/yfiifinance",
+    "github": "https://github.com/yfii",
+    "yuque":"https://www.yuque.com/books/share/a5d8c309-accb-4ec6-a161-8433f06712f9?# 《YFII FAQ》"
+  }
+}
+  

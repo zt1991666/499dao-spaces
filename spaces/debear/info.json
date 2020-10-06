@@ -1,0 +1,42 @@
+{
+  "key": "debear",
+  "blockchain": "etherscan",
+  "brief": "由潮玩艺术家们联合创建的NFT平台.",
+  "intro": "DeBear是潮玩艺术家们创立的NFT交易协议。每位艺术家都能自由发布自己的设计NFT，并进行交易。",
+  "totalsupply": "46200",
+  "audit_agency": "知道创宇",
+  "audit_report": "https://pdf.maitube.com/pdf/?e=agaL370RvOHeMa",
+  "website": "debear.club",
+  "mining": [
+    {
+      "pool": "BUSD",
+      "url": "https://debear.club/detail?poolName=pool1"
+    },
+    {
+      "pool": "USDT",
+      "url": "https://debear.club/detail?poolName=pool2"
+    },
+    {
+      "pool": "$AAPL",
+      "url": "https://debear.club/detail?poolName=pool3"
+    },
+    {
+      "pool": "BET",
+      "url": "https://debear.club/detail?poolName=pool4"
+    },
+    {
+      "pool": "YFII",
+      "url": "https://debear.club/detail?poolName=pool5"
+    },
+    {
+      "pool": "DEAR-ETH UNI LP",
+      "url": "https://debear.club/detail?poolName=pool7"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/DEARDeBear",
+    "medium": "https://medium.com/deardebear",
+    "telegram": "https://t.me/DEARDeBear"
+  }
+}
+  

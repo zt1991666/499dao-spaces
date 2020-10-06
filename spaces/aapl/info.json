@@ -1,0 +1,27 @@
+{
+  "key": "aapl",
+  "blockchain": "etherscan",
+  "brief": "弹性稳定币",
+  "intro": "$AAPL是弹性稳定币实验，结合YFI与AMPL的模型，初始供应量10万枚，随后根据实际情况进行弹性增发或者通缩，使$AAPL的价格稳定在1美元。",
+  "totalsupply": "初始供应量10万枚，随后根据情况弹性调整",
+  "audit_agency": "知道创宇",
+  "audit_report": "https://apples-cash.oss-cn-hongkong.aliyuncs.com/files/AAPL%20Smart%20Contract%20Audit%20Report%20-%20Pool0.pdf",
+  "website": "https://www.applescash.com/",
+  "mining": [
+    {
+      "pool": "SUSD",
+      "url": "https://www.applescash.com/stake/pool?pool_id=0",
+      "amout": "25000"
+    },
+    {
+      "pool": "$AAPL-ETH",
+      "url": "https://www.applescash.com/stake/pool?pool_id=1",
+      "amout": "75000"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/ApplescashC",
+    "facebook":"https://www.facebook.com/applescash/"
+  }
+}
+
