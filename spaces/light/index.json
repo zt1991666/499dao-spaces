@@ -1,0 +1,13 @@
+{
+  "key": "light",
+  "name": "Light",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "Light",
+  "defaultView": "core",
+  "address": "0x0dbb4b96a23ea7943bb72a8f16cc2c248f372935",
+  "token": "0x0dbb4b96a23ea7943bb72a8f16cc2c248f372935",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}

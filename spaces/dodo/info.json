@@ -1,0 +1,54 @@
+{
+  "key": "dodo",
+  "blockchain": "etherscan",
+  "brief": "基于原创的PMM算法构建的去中心化交易所",
+  "intro": "基于原创的PMM算法构建的去中心化交易所，DODO可以实现最大的资金利用率，实现最好的链上流动性",
+  "totalsupply": "10亿",
+  "audit_agency": "PeckShield&trails of bit",
+  "audit_report": "https://github.com/peckshield/publications/blob/master/audit_reports/dodo_audit_report_2020_16_en_1_0.pdf",
+  "website": "https://dodoex.io/",
+  "mining": [
+    {
+      "pool": "ETH-USDC",
+      "url": "https://app.dodoex.io/mining"
+    },
+    {
+      "pool": "WBTC-USDC",
+      "url": "https://app.dodoex.io/mining"
+    },
+    {
+      "pool": "LINK-USDC",
+      "url": "https://app.dodoex.io/mining"
+    },
+    {
+      "pool": "LEND-USDC",
+      "url": "https://app.dodoex.io/mining"
+    },
+    {
+      "pool": "SNX-USDC",
+      "url": "https://app.dodoex.io/mining"
+    },
+    {
+      "pool": "COMP-USDC",
+      "url": "https://app.dodoex.io/mining"
+    },
+    {
+      "pool": "YFI-USDC",
+      "url": "https://app.dodoex.io/mining"
+    },
+    {
+      "pool": "DODO-USDT",
+      "url": "https://app.dodoex.io/mining"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/BreederDodo",
+    "discord": "https://discord.gg/tyKReUK",
+    "Reddit": "https://www.reddit.com/r/DodoEx/",
+    "telegram": "https://t.me/dodoex_official",
+    "github": "https://github.com/DODOEX",
+    "FAQ":"https://dodoex.github.io/docs/docs/",
+    "Official Website":"https://dodoex.io/"
+  }
+}
+  

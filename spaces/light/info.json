@@ -1,0 +1,75 @@
+{
+  "key": "light",
+  "blockchain": "etherscan",
+  "brief": "全球首个流动性金融的分发平台",
+  "intro": "Lights.finance是全球首个流动性金融的分发平台，集合去中心化交易所、去中心化借贷、SAAS金融、去中心化项目为一体的DeFi分发平台。",
+  "totalsupply": "42000",
+  "audit_agency": "知道创宇",
+  "audit_report": "https://lights.finance/lights-report-zh.pdf",
+  "website": "https://lights.finance/",
+  "mining": [
+    {
+      "pool": "ETH-LIGHT",
+      "url": "https://lights.finance/#/primaryZoneCatch/1/9"
+    },
+    {
+      "pool": "LIGHT-USDT",
+      "url": "https://lights.finance/#/primaryZoneCatch/1/10"
+    },
+    {
+      "pool": "ETH-USDT",
+      "url": "https://lights.finance/#/primaryZoneCatch/1/2"
+    },
+    {
+      "pool": "ETH-XSUSHI",
+      "url": "https://lights.finance/#/primaryZoneCatch/1/5"
+    },
+    {
+      "pool": "ETH-HT",
+      "url": "https://lights.finance/#/primaryZoneCatch/2/0"
+    },
+    {
+      "pool": "OKB-USDK",
+      "url": "https://lights.finance/#/primaryZoneCatch/2/1"
+    },
+    {
+      "pool": "ETH-DAI",
+      "url": "https://lights.finance/#/primaryZoneCatch/2/3"
+    },
+    {
+      "pool": "ETH-UNI",
+      "url": "https://lights.finance/#/primaryZoneCatch/2/4"
+    },
+    {
+      "pool": "USDT-USDK",
+      "url": "https://lights.finance/#/primaryZoneCatch/2/6"
+    },
+    {
+      "pool": "USDT/BUSD",
+      "url": "https://lights.finance/#/primaryZoneCatch/2/7"
+    },
+    {
+      "pool": "USDT/HUSD",
+      "url": "https://lights.finance/#/primaryZoneCatch/2/8"
+    },
+    {
+      "pool": "TWT-USDT",
+      "url": "https://lights.finance/#/innovationZoneList/0"
+    },
+    {
+      "pool": "LCS-USDT",
+      "url": "https://lights.finance/#/innovationZoneList/1"
+    },
+    {
+      "pool": "ETH-CZZ",
+      "url": "https://lights.finance/#/innovationZoneList/2"
+    }
+  ],
+  "resource": {
+    "twitter": "https://twitter.com/FinanceLights",
+    "discord": "https://discord.gg/mGjbQv",
+    "medium": "https://medium.com/@light666light",
+    "telegram": "https://t.me/lightsfinance"
+  }
+}
+  

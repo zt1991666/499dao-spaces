@@ -1,0 +1,13 @@
+{
+  "key": "dodo",
+  "name": "DODO",
+  "chainId": 1,
+  "decimals": 18,
+  "symbol": "DODO",
+  "defaultView": "core",
+  "address": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+  "token": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+  "core": [],
+  "min": 0,
+  "invalid": []
+}
